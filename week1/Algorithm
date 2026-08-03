@@ -1,0 +1,12 @@
+Algorithm - Freelancer Collaboration Hub (Console-Based)
+1. Start the program.
+2. Display the main menu.
+3. Read the user's choice.
+4. If Add Freelancer, read details and store.
+5. If Add Client, read details and store.
+6. If Create Project, read project details.
+7. If Assign Project, assign freelancer to project.
+8. If Update Status, modify project status.
+9. If View/Search/Delete, perform requested operation.
+10. Repeat until Exit is selected.
+11. Stop the program.
